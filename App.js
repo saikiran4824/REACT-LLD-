@@ -40,14 +40,14 @@ function App() {
         limit={"10"}
       /> */}
 
-      {/* Load more products component */}
-      {/* <LoadMoreData/> */}
+      { Load more products component }
+      { <LoadMoreData/> }
 
-      {/* Tree view component/menu UI component / recursive navigation menu */}
-      {/* <TreeView menus={menus} /> */}
+      {/Tree view component/menu UI component / recursive navigation menu /}
+      { <TreeView menus={menus} /> }
 
-      {/* QR code generator */}
-      {/* <QRCodeGenerator/> */}
+      { QR code generator }
+      { <QRCodeGenerator/> }
 
       {/* light and dark theme switch */}
       {/* <LightDarkMode/> */}
@@ -67,8 +67,8 @@ function App() {
       {/* Search Autocomplete */}
       {/* <SearchAutocomplete/> */}
 
-      {/* Tic tac toe */}
-      {/* <TicTacToe/> */}
+      { Tic tac toe }
+      { <TicTacToe/> }
 
       {/* Feature Flag IMplementation */}
       {/* <FeatureFlagGlobalState>
@@ -84,10 +84,10 @@ function App() {
       {/* Use Window Resize Hook Test */}
       {/* <UseWindowResizeTest/> */}
 
-      {/* Scroll to Top and Bottom */}
-      {/* <ScrollToTopAndBottom/> */}
+      {Scroll to Top and Bottom }
+      { <ScrollToTopAndBottom/>}
 
-      {/* Scroll to a Particular Section */}
+      { Scroll to a Particular Section }
       <ScrollToSection/>
     </div>
   );
